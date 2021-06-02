@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T05:45:51.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="TAaalGb75uFdLXSZEeyN" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T08:17:36.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="aXJNsCzXrRP845EkCXLb" version="13.9.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2013" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,6 +354,14 @@
         <mxCell id="fwHhiO1vdNdYQ8eOmkma-7" value="&lt;span style=&quot;text-align: center ; line-height: 200%&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;熔断器打开的情况下，接口级别的流量控制计算：&lt;br&gt;&lt;/span&gt;1、如果当前限流，直接Fast Fail&lt;br&gt;2、&lt;br&gt;2、水电费&lt;br&gt;3、水电费&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="890" y="330" width="320" height="180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jqd8qor37opPPhelVYuq" name="第 2 页">
+    <mxGraphModel dx="1186" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Z6kfkMHnhAED07SVUuGT-0" />
+        <mxCell id="Z6kfkMHnhAED07SVUuGT-1" parent="Z6kfkMHnhAED07SVUuGT-0" />
       </root>
     </mxGraphModel>
   </diagram>
